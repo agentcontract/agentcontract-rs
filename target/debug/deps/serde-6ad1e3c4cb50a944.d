@@ -1,0 +1,14 @@
+/home/user/Documents/LLMs/LLMOps.Pro/AgentContract/agentcontract-rs/target/debug/deps/serde-6ad1e3c4cb50a944.d: /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/user/Documents/LLMs/LLMOps.Pro/AgentContract/agentcontract-rs/target/debug/build/serde-c80382b27f70d824/out/private.rs
+
+/home/user/Documents/LLMs/LLMOps.Pro/AgentContract/agentcontract-rs/target/debug/deps/libserde-6ad1e3c4cb50a944.rlib: /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/user/Documents/LLMs/LLMOps.Pro/AgentContract/agentcontract-rs/target/debug/build/serde-c80382b27f70d824/out/private.rs
+
+/home/user/Documents/LLMs/LLMOps.Pro/AgentContract/agentcontract-rs/target/debug/deps/libserde-6ad1e3c4cb50a944.rmeta: /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/user/Documents/LLMs/LLMOps.Pro/AgentContract/agentcontract-rs/target/debug/build/serde-c80382b27f70d824/out/private.rs
+
+/home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/user/Documents/LLMs/LLMOps.Pro/AgentContract/agentcontract-rs/target/debug/build/serde-c80382b27f70d824/out/private.rs:
+
+# env-dep:OUT_DIR=/home/user/Documents/LLMs/LLMOps.Pro/AgentContract/agentcontract-rs/target/debug/build/serde-c80382b27f70d824/out
