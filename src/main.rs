@@ -46,9 +46,11 @@ fn main() {
 fn cmd_check(path: &PathBuf) {
     match load_contract(path) {
         Ok(c) => {
-            println!("✓ Contract valid: {} v{} (spec {})", c.agent, c.version, c.spec_version);
-            println!("  Assertions : {}", c.assert_.len());
-            println!("  On violation: {}", c.on_violation.default);
+            let n_limits = c.limits.max_latency_ms.is_some() as usize
+                + c.limits.max_cost_usd.is_some() as usize
+                + c.limits.max_tokens.is_some() as usize;
+            println!("✓ Contract valid: {} v{}", c.agent, c.version);
+            println!("  {} assertions, {} limits", c.assert_.len(), n_limits);
         }
         Err(e) => {
             eprintln!("✗ {e}");
