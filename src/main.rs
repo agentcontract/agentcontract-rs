@@ -5,7 +5,7 @@ use clap::{Parser, Subcommand};
 use agentcontract::{load_contract, ContractRunner, RunContext};
 
 #[derive(Parser)]
-#[command(name = "agentcontract", version = "0.1.0")]
+#[command(name = "agentcontract", version = env!("CARGO_PKG_VERSION"))]
 #[command(about = "AgentContract CLI — behavioral contracts for AI agents")]
 struct Cli {
     #[command(subcommand)]
